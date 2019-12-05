@@ -1,0 +1,15 @@
+{
+    "name": "ga-to-button",
+    "version": "0.0.1",
+    "description": "Botón que al momento de dar click, se deshabilita y muestra animación de cargando, utiliza iconos de FontAwesome",
+    "author": "Jose David Gale",
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "license": "MIT",
+    "peerDependencies": {
+        "@angular/common": "^8.2.14",
+        "@angular/core": "^8.2.14"
+    }
+}
