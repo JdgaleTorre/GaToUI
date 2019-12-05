@@ -4,8 +4,8 @@
     "description": "Botón que al momento de dar click, se deshabilita y muestra animación de cargando, utiliza iconos de FontAwesome",
     "author": "Jose David Gale",
     "repository": {
-        "type": "",
-        "url": ""
+        "type": "git",
+        "url": "https://github.com/JdgaleTorre/GaToUI/tree/master/projects/button"
     },
     "license": "MIT",
     "peerDependencies": {
